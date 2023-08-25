@@ -16,7 +16,8 @@ I'm John Doe, an interstellar coder on a mission to turn caffeine into code.
 
 ### Stats
 
-[![GitHub Followers](https://img.shields.io/github/followers/MuhammadIsrarKhan?label=Followers&style=social)](https://github.com/MuhammadIsrarKhan)
+![MuhammadIsrarKhan's Stats](https://github-readme-stats.vercel.app/api?username=MuhammadIsrarKhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![MuhammadIsrarKhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIsrarKhan&theme=vue-dark&hide_border=true)
 
 
 ### Let's Set Sail
