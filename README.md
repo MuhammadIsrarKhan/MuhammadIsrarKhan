@@ -1,14 +1,24 @@
-### Hi there 👋
+## Ahoy, fellow code adventurers! 🏴‍☠️
 
-**MuhammadIsrarKhan/MuhammadIsrarKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm John Doe, an interstellar coder on a mission to turn caffeine into code.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [ignite](https://ignitestartup.pk/): Where pixels and logic dance the fandango.
+- [watchturks](http://lts.watchturks.tv/): A saga of code and creativity, told in bytes.
+- [evseek](https://evseek.vercel.app/): Embark on a journey through events with this nifty app.
+
+### Skills
+
+- JavaScript: My trusty cutlass for slicing through code conundrums.
+- React: Crafting user interfaces more captivating than buried treasure maps.
+- Node.js: Unleashing the power of asynchronous winds upon the server realm.
+
+### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&count_private=true&hide=stars)
+
+### Let's Set Sail
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-israr-khan-558300199/)
+- [Gmail](israruetp@gmail.com)
