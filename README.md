@@ -2,7 +2,7 @@
 
 I'm ISrar, an interstellar coder on a mission to turn caffeine into code.
 
-### Projects
+Projects
 ---
 - [ignite](https://ignitestartup.pk/): Where pixels and logic dance the fandango.
 - [watchturks](http://lts.watchturks.tv/): A saga of code and creativity, told in bytes.
