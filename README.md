@@ -1,7 +1,7 @@
 <h1 align="center">Ahoy, fellow code adventurers! 🏴‍☠️</h1>
 
 I'm ISrar, an interstellar coder on a mission to turn caffeine into code.
-<hrv/>
+<hr/>
 
 Projects
 
