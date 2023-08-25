@@ -16,13 +16,12 @@ Skills
 
 Stats
 ---
-<div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center;">
-    ![MuhammadIsrarKhan's Stats](https://github-readme-stats.vercel.app/api?username=MuhammadIsrarKhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-doe&layout=compact" alt="Top Languages">
-  </div>
-  <img src="https://github-profile-trophy.vercel.app/?username=john-doe&theme=nord" alt="GitHub Trophies" style="margin-top: 20px;">
-</div>
+<table>
+  <tr>
+    <td>![MuhammadIsrarKhan's Stats](https://github-readme-stats.vercel.app/api?username=MuhammadIsrarKhan&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</td>
+    <td>![MuhammadIsrarKhan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadIsrarKhan&theme=vue-dark&hide_border=true)</td>
+  </tr>
+</table>
 
 
 Let's Set Sail
