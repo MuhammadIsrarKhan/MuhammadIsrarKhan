@@ -1,4 +1,4 @@
-## Ahoy, fellow code adventurers! 🏴‍☠️
+<h1 align="center">Ahoy, fellow code adventurers! 🏴‍☠️</h1>
 
 I'm John Doe, an interstellar coder on a mission to turn caffeine into code.
 
@@ -16,7 +16,9 @@ I'm John Doe, an interstellar coder on a mission to turn caffeine into code.
 
 ### Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&count_private=true&hide=stars)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=john-doe&show_icons=true&count_private=true&hide=stars" alt="GitHub stats">
+</p>
 
 ### Let's Set Sail
 
