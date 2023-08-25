@@ -1,14 +1,7 @@
-<style>
-  hr {
-    border-top: 2px solid #e0e0e0;
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
-</style>
 <h1 align="center">Ahoy, fellow code adventurers! 🏴‍☠️</h1>
 
 I'm ISrar, an interstellar coder on a mission to turn caffeine into code.
-<hr/>
+---
 
 Projects
 
