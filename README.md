@@ -7,6 +7,7 @@ Projects
 - [ignite](https://ignitestartup.pk/): Where pixels and logic dance the fandango.
 - [watchturks](http://lts.watchturks.tv/): A saga of code and creativity, told in bytes.
 - [evseek](https://evseek.vercel.app/): Embark on a journey through events with this nifty app.
+- [ewanc](https://ewanc.com//): Embark on a journey through events with this nifty app.
 
 Skills
 ---
