@@ -14,7 +14,7 @@ Skills
 ---
 - JavaScript: My trusty cutlass for slicing through code conundrums.
 - React: Crafting user interfaces more captivating than buried treasure maps.
-- Node.js: Unleashing the power of asynchronous winds upon the server realm.
+- Vue js: Creating user interfaces with vue js
 
 Stats
 ---
