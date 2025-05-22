@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-React-gray?logo=react" alt="" />
   <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js" alt="" />
   <img src="https://img.shields.io/badge/-Redux%20-%23593d88.svg?logo=redux&logoColor=white" alt="" />
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?logo=react%20query&logoColor=white" alt="" />
+  <img src="https://img.shields.io/badge/-Tanstack%20Query-FF4154?logo=react%20query&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/-Zustand-purple?logo=zustand" alt="" />
 
  
@@ -58,6 +58,8 @@
 <img src="https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" alt="" />
 <img src="https://img.shields.io/badge/-NestJS*-E0234E?logo=nestjs&logoColor=white" alt="" />
+<img src="https://img.shields.io/badge/-Laravel-F55247?logo=laravel&logoColor=white" alt="Laravel" />
+
 
 
 
