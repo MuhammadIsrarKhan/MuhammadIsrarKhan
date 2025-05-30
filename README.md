@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-05122A?&logo=javascript" alt="" />
   <img src="https://img.shields.io/badge/-TypeScript-lightgray?logo=typescript" alt="" />
   <img src="https://img.shields.io/badge/-React-gray?logo=react" alt="" />
+  <img src="https://img.shields.io/badge/-React--Native-gray?logo=react" alt="" />
   <img src="https://img.shields.io/badge/-Next.js-black?logo=next.js" alt="" />
   <img src="https://img.shields.io/badge/-Redux%20-%23593d88.svg?logo=redux&logoColor=white" alt="" />
   <img src="https://img.shields.io/badge/-Tanstack%20Query-FF4154?logo=react%20query&logoColor=white" alt="" />
